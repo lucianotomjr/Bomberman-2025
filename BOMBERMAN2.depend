@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1761330768 source:c:\users\lucia\onedrive - univali\2 semestre\algoritimos 2\trabalho 2 - bomberman\bomberman2\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<cstdlib>
+	<string>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<vector>
+	<mmsystem.h>
+
